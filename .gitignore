@@ -1,0 +1,19 @@
+# StudioPilot runtime artifacts
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Packed extension zips (release artifacts)
+*.zip
